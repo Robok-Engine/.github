@@ -5,9 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=6E6E6E&center=true&vCenter=true&width=1000&lines=Robok;a+platform+for+developing+3D+games+with+Java.;A+3D+and+2D+game+engine.)](https://git.io/typing-svg)
 
 <!-- Badges -->
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![RBK](https://img.shields.io/badge/RBK-%F0%9F%8E%AE-blue?style=for-the-badge)
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp; 
+![RBK](https://img.shields.io/badge/RBK-%23F05033?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp; 
 <!-- Contributors Robok Engine -->
 <h3>Contributors to Robok Engine</h3>
 <a href="https://github.com/robok-inc/robok-engine/graphs/contributors">
